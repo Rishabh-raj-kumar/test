@@ -1,5 +1,1 @@
-{{#user}}
-Name: Rishabh Raj
-Skills: HTML, CSS , Tailwind css, JS ,React js, Node js, Next.js,Flutter
-Email: rishabhkr194@gmail.com
-{{/user}}
+
